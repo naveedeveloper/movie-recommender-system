@@ -1,0 +1,8 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+**/.ipynb_checkpoints/
+
+# Streamlit
+__pycache__/
+.cache/
