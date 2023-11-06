@@ -6,3 +6,5 @@
 # Streamlit
 __pycache__/
 .cache/
+.idea/
+.gitignore
